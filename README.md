@@ -10,7 +10,7 @@ applications for both iOS and Android platforms**
 
 - ⚡Fun fact always learning
 
-<a href="https://linkedin.com/in/tharwat-samy-363aa7177/" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tharwat-samy-363aa7177/" height="30" width="40" style="max-width: 100%;"></a>
+<a href="https://www.linkedin.com/in/george-yousseff/" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="george-youssef363aa7177/" height="30" width="40" style="max-width: 100%;"></a>
 
 
 
