@@ -8,11 +8,11 @@ applications for both iOS and Android platforms**
 
 - 📫 How to reach me **Georgeyoussefrady@gmail.com**
 
-- ⚡ fact always learning
+- ⚡Fun fact always learning
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/_georgeyoussef" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_georgeyoussef" height="30" width="40" /></a>
+<a href="https://instagram.com/_georgeyoussef" href="[https://instagram.com/_georgeyoussef](https://www.linkedin.com/in/george-yousseff/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_georgeyoussef" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
