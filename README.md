@@ -8,7 +8,7 @@ applications for both iOS and Android platforms**
 
 - 📫 How to reach me **Georgeyoussefrady@gmail.com**
 
-- ⚡ Fun fact Fun fact always learning
+- ⚡ fact always learning
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
