@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm George Youseef</h1>
-<h3 align="center">Software Engineer</h3>
+<h3 align="center">Software Engineer/Mobile Applications Developer</h3>
 
 - 🌱 As a Junior Flutter Developer with 1 year of experience, I have a solid foundation in developing mobile
 applications for both iOS and Android platforms**
 
-- 💬 Ask me about **Dart, Flutter ,SWE**
+- 💬 Ask me about anything
 
 - 📫 How to reach me **Georgeyoussefrady@gmail.com**
 
