@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm George Youseef</h1>
-<h3 align="center">Data Anaylst</h3>
+<h3 align="center">Software Engineer</h3>
 
-- 🌱 I’m currently learning **Python, SQL, Tableau, Data Visualization, Excel, NumPy, Statistics**
+- 🌱 As a Junior Flutter Developer with 1 year of experience, I have a solid foundation in developing mobile
+applications for both iOS and Android platforms**
 
-- 💬 Ask me about **Python, SQL ,Excel**
+- 💬 Ask me about **Dart, Flutter ,SWE**
 
 - 📫 How to reach me **Georgeyoussefrady@gmail.com**
 
