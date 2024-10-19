@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm George Youseef</h1>
+<h1 align="center">Hi 👋, I'm George Youssef</h1>
 <h3 align="center">Software Engineer & Mobile Applications Developer</h3>
 
 <p align="center">
