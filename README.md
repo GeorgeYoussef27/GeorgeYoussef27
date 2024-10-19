@@ -20,7 +20,9 @@
 <p align="left">
   <strong>Frameworks:</strong>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" width="20" height="20"/> Flutter,
+  Provider,
   BLOC (Business Logic Component)
+  
 </p>
 <p align="left">
   <strong>Tools & Platforms:</strong>
